@@ -1,3 +1,6 @@
+// DATE: Thu 15 Feb 01:37:03 2024 
+// KEY: capture screen, get screen, opengl capture screen
+// REF: https://pastebin.com/pMH2rDNH
 // This C code captures the screen of Macs and shows it in an OpenGL window through the function glDrawPixels
 // gcc -o opengl-capture capture.c -framework Carbon -framework OpenGL -framework GLUT
  
